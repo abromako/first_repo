@@ -11,3 +11,5 @@ Lets have some fun
 **Local conflict**
 
 test
+**Browser conflict** in browser
+
