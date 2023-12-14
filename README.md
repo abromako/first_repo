@@ -8,5 +8,5 @@ Lets have some fun
 
 * added text in new branch 
 
-**Browser conflict**
+**Browser conflict** in browser
 
